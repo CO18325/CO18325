@@ -1,4 +1,4 @@
-### HEY visitor :wave:
+### HEY FOLKS :wave: :wave:
 <p>
 I am a student at Chandigarh College of Engineering And Technology pursuing my bachelor's in Computer Science interested in fusion of Web Development and Artificial Intelligence. Currently, exploring the field of Deep Learning.  
 I love to interact with new people and to get the insights on how they choose their career paths.I love to try new things even if I don't get success as it is my belief to be successfully exponentially we need to fail sometimes greatly!! 
@@ -15,4 +15,4 @@ I love to play football and quite fond of movies, especially sci-fi.
 
 
 
-![Inderpreet's github stats](https://github-readme-stats.vercel.app/api?username=C018325&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![Inderpreet's github stats](https://github-readme-stats.vercel.app/api?username=CO18325&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
