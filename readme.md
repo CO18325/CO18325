@@ -15,4 +15,4 @@ I love to play football and quite fond of movies, especially sci-fi.
 
 
 
-![Inderpreet's github stats](https://github-readme-stats.vercel.app/api?username=CO18325&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=8A2BE2)
+![Inderpreet's github stats](https://github-readme-stats.vercel.app/api?username=CO18325&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=26366D )
