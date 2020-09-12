@@ -10,7 +10,7 @@ I love to play football and quite fond of movies, especially sci-fi.
 - 👯 I’m looking forward to collaborate on a tech project integrating Deep Learning and Web Technologies
 - ⚡ Elon Musk and Andrew Ng are my Ideals
 
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/inderpreet-singh-a32816169/)](https://www.linkedin.com/in/vividha-rawat-761905143/)
+ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/inderpreet-singh-a32816169/)](https://www.linkedin.com/in/inderpreet-singh-a32816169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inderpreet221099@gmail.com)](mailto:inderpreet221099@gmail.com)
 
 
