@@ -5,6 +5,7 @@ I love to interact with new people and to get the insights on how they choose th
 I love to play football and quite fond of movies, especially sci-fi. 
 </p>
 
+
 - 🔭 I’m currently working on Convolutional Networks.
 - 🌱 I’m currently learning Natural Language Processing
 - 👯 I’m looking forward to collaborate on a tech project integrating Deep Learning and Web Technologies
@@ -14,6 +15,6 @@ Connecct with me on :point_right: [![Linkedin Badge](https://img.shields.io/badg
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inderpreet221099@gmail.com)](mailto:inderpreet221099@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@inderpreet221099)](https://medium.com/@inderpreet221099)
 
-
+<p>TO KNOW MORE ABOUT ME : https://inderpreet-portfolio.netlify.app/</p>
 
 ![Inderpreet's github stats](https://github-readme-stats.vercel.app/api?username=CO18325&show_icons=true&title_color=fff&icon_color=FFD700&text_color=ECECEC&bg_color=26366D )
