@@ -12,6 +12,7 @@ I love to play football and quite fond of movies, especially sci-fi.
 
 Connecct with me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/inderpreet-singh-a32816169/)](https://www.linkedin.com/in/inderpreet-singh-a32816169/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inderpreet221099@gmail.com)](mailto:inderpreet221099@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@inderpreet221099)](https://medium.com/@inderpreet221099)
 
 
 
